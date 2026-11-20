@@ -1,0 +1,103 @@
+[
+  {
+    "name": "HG MODES",
+    "prices": {
+      "1 DAY": 13000,
+      "7 DAY": 40000,
+      "10 DAY": 50000,
+      "30 DAY": 80000
+    }
+  },
+  {
+    "name": "REZZX",
+    "prices": {
+      "1 JAM": 4000,
+      "2 JAM": 5000,
+      "3 JAM": 7000,
+      "6 JAM": 14000,
+      "12 JAM": 18000,
+      "1 HARI": 25000,
+      "3 HARI": 40000,
+      "7 HARI": 60000,
+      "10 HARI": 85000
+    }
+  },
+  {
+    "name": "DRIP WIRE",
+    "prices": {
+      "3 JAM": 6000,
+      "6 JAM": 8000,
+      "12 JAM": 10000,
+      "1 HARI": 18000,
+      "7 HARI": 55000,
+      "30 HARI": 100000
+    }
+  },
+  {
+    "name": "PHANTOM",
+    "prices": {
+      "1 JAM": 4000,
+      "3 JAM": 6000,
+      "6 JAM": 12000,
+      "1 HARI": 19000,
+      "3 HARI": 35000
+    }
+  },
+  {
+    "name": "DRIP CLIENT",
+    "prices": {
+      "1 DAY": 10000,
+      "3 DAY": 20000,
+      "7 DAY": 40000,
+      "15 DAY": 60000,
+      "30 DAY": 100000
+    }
+  },
+  {
+    "name": "BR MODES",
+    "prices": {
+      "1 HARI": 15000,
+      "10 HARI": 65000,
+      "30 HARI": 100000
+    }
+  },
+  {
+    "name": "PATO MODES",
+    "prices": {
+      "3 DAY": 30000,
+      "7 DAY": 50000,
+      "15 DAY": 100000
+    }
+  },
+  {
+    "name": "PRIME HOOK",
+    "prices": {
+      "1 DAY": 10000,
+      "3 DAY": 20000,
+      "7 DAY": 40000
+    }
+  },
+  {
+    "name": "SILENT CHEAT",
+    "prices": {
+      "1 DAY": 10000,
+      "3 DAY": 25000,
+      "7 DAY": 45000,
+      "14 DAY": 65000,
+      "30 DAY": 95000
+    }
+  },
+  {
+    "name": "XREG",
+    "prices": {
+      "1 JAM": 5000,
+      "3 JAM": 7000,
+      "6 JAM": 10000,
+      "12 JAM": 15000,
+      "1 HARI": 17000,
+      "3 HARI": 35000,
+      "7 HARI": 55000,
+      "30 HARI": 100000
+    }
+  }
+]
